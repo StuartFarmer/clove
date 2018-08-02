@@ -1,5 +1,8 @@
 # Clove [![Build Status](https://travis-ci.com/Lamden/clove.svg?token=ZJstcVy9cUkAxLqvqRuL&branch=master)](https://travis-ci.com/Lamden/clove)
 
+<img src="https://github.com/Lamden/clove/raw/master/clove.jpg" align="right"
+     title="Seneca" width="300" height="450">
+
 version number: 1.1.2
 
 
